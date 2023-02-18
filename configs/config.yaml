@@ -1,0 +1,5 @@
+ConfluenceUrl: "https://confluence.hflabs.ru/pages/viewpage.action?pageId=1181220999"
+GdocsID: "1x6OwkOgIpkWUiUrdLXQSYfBDUg2nYAGotaWx24z2fB8"
+ClientConfig: "configs/client_secret.json"
+PprofPort: ":8024"
+PrometheusPort: ":9090"
