@@ -1,5 +1,5 @@
 run:
-	cd deployments && docker-compose up --build
+	cd deployments && docker-compose up --build -d
 
 test:
 	go clean -testcache
