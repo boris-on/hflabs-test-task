@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/d/1x6OwkOgIpkWUiUrdLXQSYfBDUg2nYAGotaWx24z2
 
 # Реализация
 
-На удаленной машине запущен сервис, каждые 12 часов обновляющий гугл таблицу. К приложению подключен сбор метрик с помощью Prometheus и их визуализация c Grafana.
+На удаленной машине запущен сервис, каждые 12 часов обновляющий гугл таблицу. К приложению подключен сбор метрик с помощью Prometheus и их визуализация c Grafana. Реализован CI/CD с GitHub Actions.
 
 <a><img alt="screenshot" src="screenshot.png"></img></a>
 
