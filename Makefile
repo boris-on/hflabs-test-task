@@ -16,6 +16,7 @@ pprof:
 	rm trace.out
 
 down:
+	cd deployments
 	docker-compose down
 	docker container prune -f
 	docker image prune -f
